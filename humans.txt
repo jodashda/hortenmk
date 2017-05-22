@@ -3,11 +3,12 @@
 
 # TEAM
 
-    Martin -- CEO -- Twitter
+    Martin -- Head Of Project
 
 # THANKS
 
-    Martin Lammetun Thommesen
+    Marco Gravbrøt
+    Oliver Jahre
 
 # TECHNOLOGY COLOPHON
 
