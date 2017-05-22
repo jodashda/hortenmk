@@ -4,11 +4,13 @@
 # TEAM
 
     Martin -- Head Of Project
+    Marco  -- Contributor
+    Oliver -- Contributor
+    
 
 # THANKS
 
-    Marco Gravbrøt
-    Oliver Jahre
+    Horten Videregaaende Skole
 
 # TECHNOLOGY COLOPHON
 
